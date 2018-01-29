@@ -1,24 +1,13 @@
 {
-  "name": "nodejstraining",
+  "name": "module1assignment",
   "version": "1.0.0",
   "description": "\"# nodejstraining\"",
   "main": "index.js",
-  "dependencies": {
-    "csvtojson": "^1.1.9",
-    "fs": "^0.0.1-security"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sumit1523/nodejstraining.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sumit1523/nodejstraining/issues"
-  },
-  "homepage": "https://github.com/sumit1523/nodejstraining#readme"
+  "license": "ISC"
 }
